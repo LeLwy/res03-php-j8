@@ -1,6 +1,6 @@
 <?php
 
-class User{
+class PostCategory{
     
     private ?int $id;
     private string $name;

@@ -1,6 +1,6 @@
 <?php
 
-class User{
+class Post{
     
     private ?int $id;
     private string $title;
